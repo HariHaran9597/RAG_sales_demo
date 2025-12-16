@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Python Environment
+venv/
+__pycache__/
+
+# Local Database (Too big for git)
+chroma_db/
+
+# System files
+.DS_Store

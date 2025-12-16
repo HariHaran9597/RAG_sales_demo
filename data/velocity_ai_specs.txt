@@ -1,0 +1,17 @@
+Product Name: VelocityAI
+Version: 4.2
+Type: Predictive Sales Analytics Platform
+
+Core Features:
+1. Lead Scoring Engine: Uses Random Forest models to score leads 0-100 based on interaction history.
+2. Auto-CRM Sync: Bi-directional sync with Salesforce, HubSpot, and Pipedrive.
+3. Sentiment Analysis: Analyzes email and call transcripts to flag "at-risk" deals.
+
+Pricing Tiers:
+- Starter: $500/month (Up to 5 seats, Basic Scoring)
+- Growth: $2,000/month (Unlimited seats, Advanced NLP, Dedicated CSM)
+- Enterprise: Custom Quote (On-premise deployment, SOC2 compliance)
+
+Technical Requirements:
+- Browser: Chrome v90+, Safari 14+
+- API Limits: 10,000 calls per minute for Enterprise.

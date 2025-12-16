@@ -1,0 +1,11 @@
+Competitor: LegacyCRM Systems
+Our Win Strategy: Focus on "Time-to-Value".
+
+Talking Points vs LegacyCRM:
+1. Deployment Speed: LegacyCRM takes 6-9 months to implement. VelocityAI goes live in 3 days.
+2. AI Capabilities: LegacyCRM claims "AI" but it's just rule-based triggers. VelocityAI uses real-time LLM processing.
+3. Cost: We are 40% cheaper on Total Cost of Ownership (TCO) because we don't require external consultants.
+
+Common Objections & Rebuttals:
+- "LegacyCRM is the industry standard." -> Response: "It was the standard 10 years ago. Do you want innovation or maintenance?"
+- "Migration is hard." -> Response: "We offer a 1-click migration tool specifically for LegacyCRM data."

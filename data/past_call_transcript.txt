@@ -1,0 +1,11 @@
+Date: Dec 10, 2024
+Participants: Alex (Sales Rep), Sarah (CTO at FinTech Corp)
+
+Alex: Hi Sarah, thanks for taking the call. I heard you're looking to modernize your sales stack?
+Sarah: Yes, but frankly, I'm worried about security. We deal with financial data. Cloud solutions make me nervous.
+Alex: I totally get that. Actually, for clients like you, VelocityAI offers an On-Premise deployment option. Your data never leaves your servers.
+Sarah: Oh, I didn't know that. That changes things. What about compliance?
+Alex: We are fully SOC2 Type II compliant and GDPR ready.
+Sarah: Okay, that's good. But my team hates learning new tools.
+Alex: We have a UI that mimics Excel. If they know spreadsheets, they know VelocityAI.
+Sarah: Interesting. Send me the technical documentation.
