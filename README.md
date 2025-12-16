@@ -71,6 +71,12 @@ python query.py
 ```
 Runs a default comparison question.
 
+
+## output
+
+<img width="1921" height="422" alt="image" src="https://github.com/user-attachments/assets/fe63061f-6489-4a03-8aae-8dc5caf28f39" />
+
+
 ## How It Works
 
 1. **Ingestion** (`ingest.py`):
